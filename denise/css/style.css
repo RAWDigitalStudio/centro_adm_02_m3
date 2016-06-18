@@ -1,0 +1,36 @@
+body{
+	margin: 0
+}
+.box{
+	width: 33.3334%;
+	height: 33.3334vh;
+	border: 1px solid black;
+	padding: 10px;
+	box-sizing: border-box;
+	position: relative;
+
+
+}
+
+.box1{
+	width: 33.3334%;
+	height: 33.3334vh;
+	border: 1px solid black;
+	padding: 0px;
+	box-sizing: border-box;
+	position: relative;
+	top:33.3334%;
+	bottom: 33.3334vh;
+}
+.box2{
+	width: 33.3334%;
+	height: 33.3334vh;
+	border: 1px solid black;
+	padding: 0px;
+	box-sizing: border-box;
+	position: relative;
+	top:0;
+	bottom:0;
+	left:; 
+	right: ;
+}
