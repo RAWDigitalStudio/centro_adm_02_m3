@@ -1,0 +1,21 @@
+body{
+	margin: 0
+}
+
+.box{
+	width: 33.3334%;
+	height: 33.3334vh;
+	border: 1px solid black;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.box2{
+	position: relative;
+	top: -33.3334vh;
+	left: 33.3334%;
+}
+.box3{
+	position: relative;
+	top: -66.6668vh;
+	left: 66.6668%;
+}
